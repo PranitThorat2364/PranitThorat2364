@@ -104,6 +104,9 @@ Let’s learn, share, and grow together! 🔥
   <a href="https://tryhackme.com/p/Mr.Root2364">
     <img src="https://img.shields.io/badge/TryHackMe-2C2C2C?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
+  <a href="https://t.me/MrRoot2364">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 
